@@ -4,7 +4,7 @@ I'm Vitor, an exchange student at Télécom Paris, currently specializing in Dat
 
 <div align="center">  
   <img align="left" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/CheerySeparateGoldeneye-size_restricted.gif" width="100" height="100" />
-  <img align="center" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/200w.gif" width="100" height="100" />
+  <img align="center" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/giphy.gif" width="100" height="100" />
   <img align="right" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/01d7176e77aebf3b461562899efcf47f.gif" width="100" height="100" />
 </div>
 

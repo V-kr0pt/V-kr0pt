@@ -2,7 +2,7 @@
 
 I'm Vitor, an exchange student at Télécom Paris, currently specializing in Data Science and Image Processing study tracks. I'm passionate about leveraging data and cutting-edge technologies to solve real-world problems and drive innovation. 
 
-<img align="center" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/CheerySeparateGoldeneye-size_restricted.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/V-kr0pt/V-kr0pt/blob/main/CheerySeparateGoldeneye-size_restricted.gif" width="100" height="100" />
 
 ## 🌱 What I'm Currently Learning
 

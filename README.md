@@ -10,7 +10,7 @@ Thank you for visiting my GitHub profile! I'm excited to connect with fellow dev
 
 
 <div> 
-  <a href = "mailto:vitor.franca@telecom-paris.fr"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:vitor.sousa.franca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/frvitor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

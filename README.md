@@ -1,8 +1,13 @@
 # Hi there! Welcome to my GitHub Profile! 👋
 
-I'm Vitor, currently an Electrical Engineering student at UFPB. I did an exchange program at Télécom Paris specializing in Data Science and Image Processing. I'm passionate about studying technologies to solve real-world problems. 
 
-Thank you for visiting my GitHub profile! I'm excited to connect with fellow developers and contribute to the amazing world of data science and image processing. Don't hesitate to talk to me if you want to share knowlodge and experience. 😃
+I'm Vitor França, an Electrical Engineer currently working as a Research Engineer at EMBRAPII (CEAR/UFPB Unit). I did an exchange program at Télécom Paris specializing in Data Science and Image Processing.
+
+I completed an academic exchange at Télécom Paris, where I specialized in Data Science and Image Processing. Since then, I’ve been working on R&D projects that bridge engineering, AI, and real-world industrial applications.
+
+I’m always open to collaboration, technical discussions, and research partnerships.
+
+Feel free to reach out! 😃
 
 <div> 
   <a href = "mailto:vitor.sousa.franca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  

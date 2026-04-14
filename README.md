@@ -1,7 +1,7 @@
 # Hi there! Welcome to my GitHub Profile! 👋
 
 
-I'm Vitor França, an Electrical Engineer currently working as a Research Engineer at EMBRAPII (CEAR/UFPB Unit). I did an exchange program at Télécom Paris specializing in Data Science and Image Processing.
+I'm Vitor França, an Electrical Engineer currently working as a Research Engineer at EMBRAPII (CEAR/UFPB Unit).
 
 I completed an academic exchange at Télécom Paris, where I specialized in Data Science and Image Processing. Since then, I’ve been working on R&D projects that bridge engineering, AI, and real-world industrial applications.
 
